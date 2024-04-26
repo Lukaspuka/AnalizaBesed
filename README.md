@@ -7,4 +7,4 @@ V okviru tega projekta se bomo ukvarjali s preprosto analizo besed.
 * Matjaž Zaveršnik
 * Tilen Marc
 * Janez Dolenc
-* Urška Gorjup
+* Urška aaaaa
