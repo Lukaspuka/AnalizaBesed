@@ -6,4 +6,5 @@ V okviru tega projekta se bomo ukvarjali s preprosto analizo besed.
 
 * Matjaž Zaveršnik
 * Tilen Marc
-* Sonja Hribar
+* Janez Dolenc
+* Urška Gorjup
